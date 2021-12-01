@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: url('../img/bg.jpg') no-repeat;
+  background-size: cover;
+}
+
+h1{
+  background-color:greenyellow;
+  text-align: center;
+  color: white;
+  margin: 20px 550px 20px;
+  border-radius: 10px;
+  font:bold 30pt "segoe script";
+  text-shadow: 2px 1px 2px black;
+}
+
+#snake {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+}
